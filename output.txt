@@ -1,0 +1,5 @@
+Sara 16.0
+Mary 13.6
+Ali 7.2
+Anna 3.0
+Average 9.950000000000001
